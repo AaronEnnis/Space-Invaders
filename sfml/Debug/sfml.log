@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\aaron\documents\3rd year\c++\sfml\sfml\main.cpp(65): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  sfml.vcxproj -> C:\Users\aaron\Documents\3rd year\c++\sfml\Debug\sfml.exe
+  sfml.vcxproj -> C:\Users\aaron\Documents\3rd year\c++\sfml\Debug\sfml.pdb (Partial PDB)
